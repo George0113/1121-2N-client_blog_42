@@ -125,3 +125,5 @@ const items = [
     remote_url: '',
   },
 ];
+
+export default items;
